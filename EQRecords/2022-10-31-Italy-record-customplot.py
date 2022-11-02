@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # 
-# This file is part of the LilleRShake distribution (https://github.com/xxxx or http://xxx.github.io).
+# This file is part of the LilleRShake distribution (https://github.com/smerkel/LilleRShake).
 # Copyright (c) 2022 Sébastien Merkel, Univ. Lille, France
 # 
 # This program is free software: you can redistribute it and/or modify  
