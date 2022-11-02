@@ -37,6 +37,7 @@ It will save an image of the record for each station you requested and, if you d
 
 ## Example
 
-This is what you will get for the RaspberryShake at ULille if you run the script for the EQ in Italy on 2022-10-31, which is in this folder:
+This is what you will get for the RaspberryShake at ULille and a second one located in Scuol, Switzerland, if you run the script for the EQ in Italy on 2022-10-31, which is in this folder:
 
 ![2022-10-31-Italy-Record-Lille](https://user-images.githubusercontent.com/12073828/199465515-f2346789-275e-4a59-8d1e-949c23a0c007.png)
+![2022-10-31-Italy-Record-Scuol](https://user-images.githubusercontent.com/12073828/199469111-37e00af6-7ce2-430f-b6c3-0bef23879e97.png)
