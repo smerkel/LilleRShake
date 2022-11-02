@@ -39,4 +39,4 @@ It will save an image of the record for each station you requested and, if you d
 
 This is what you will get for the RaspberryShake at ULille if you run the script for the EQ in Italy on 2022-10-31, which is in this folder:
 
-[2022-10-31-Italy-Record](https://user-images.githubusercontent.com/12073828/199464468-e97c2017-6622-449d-a6c2-3cae4cdcc102.png)
+![2022-10-31-Italy-Record](https://user-images.githubusercontent.com/12073828/199464468-e97c2017-6622-449d-a6c2-3cae4cdcc102.png)
