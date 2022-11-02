@@ -21,5 +21,5 @@ The scripts are built against
 ## Content
 
 At present
- * Scripts to plot records from individual seismometer(s) for one event are in (EQRecords/)
+ * Scripts to plot records from individual seismometer(s), including the RShake at Univ. Lille for one event are in [EQRecords](EQRecords/)
  * More to come soon...
